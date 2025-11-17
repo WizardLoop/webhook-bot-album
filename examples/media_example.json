@@ -1,0 +1,11 @@
+[
+    {
+        "type": "photo",
+        "file_id": "ABC123",
+        "caption": "Sample caption"
+    },
+    {
+        "type": "text",
+        "text": "Hello world"
+    }
+]
