@@ -2,7 +2,7 @@
 ## album-bot
 A lightweight and powerful Telegram bot that collects **albums** and send them, in a clean, organized way.
 
-Created by **@wizardloop**.
+(New: added async bot based [MadelineProto](https://docs.madelineproto.xyz/))
 
 ---
 
